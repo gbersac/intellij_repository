@@ -1,5 +1,66 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="EditorBackwardParagraph">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorForwardParagraph">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GoToLastTab">
+    <keyboard-shortcut first-keystroke="meta a_with_grave" />
+  </action>
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="meta ampersand" />
   </action>
+  <action id="GoToTab2">
+    <keyboard-shortcut first-keystroke="meta e_with_acute" />
+  </action>
+  <action id="GoToTab3">
+    <keyboard-shortcut first-keystroke="meta quotedbl" />
+  </action>
+  <action id="GoToTab4">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="GoToTab5">
+    <keyboard-shortcut first-keystroke="meta left_parenthesis" />
+  </action>
+  <action id="GoToTab6">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
+  <action id="GoToTab7">
+    <keyboard-shortcut first-keystroke="meta e_with_grave" />
+  </action>
+  <action id="GoToTab8">
+    <keyboard-shortcut first-keystroke="meta exclamation_mark" />
+  </action>
+  <action id="GoToTab9">
+    <keyboard-shortcut first-keystroke="meta c_with_cedilla" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+  </action>
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
 </keymap>
