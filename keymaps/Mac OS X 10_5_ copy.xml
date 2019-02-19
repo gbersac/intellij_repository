@@ -6,14 +6,67 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DSM.OpenInEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Debugger.EditFrameSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DecrementWindowHeight" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorForwardParagraph">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta end" />
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorTextStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta home" />
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
   <action id="EditorUnSelectWord" />
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -48,19 +101,59 @@
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="meta c_with_cedilla" />
   </action>
+  <action id="Graph.Faces.OpenSelectedPages">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Groovy.Shell.Execute" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="IncrementWindowHeight" />
+  <action id="Jdbc.OpenEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="KotlinShellExecute" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.EditConfiguration">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ScalaConsole.Execute" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ViewSource" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
 </keymap>
