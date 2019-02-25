@@ -75,6 +75,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
   <action id="GoToLastTab">
     <keyboard-shortcut first-keystroke="meta a_with_grave" />
   </action>
