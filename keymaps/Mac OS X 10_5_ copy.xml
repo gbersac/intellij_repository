@@ -80,6 +80,12 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
   <action id="GoToLastTab">
     <keyboard-shortcut first-keystroke="meta a_with_grave" />
   </action>
@@ -145,10 +151,6 @@
   <action id="ResizeToolWindowUp" />
   <action id="RunDashboard.EditConfiguration">
     <keyboard-shortcut first-keystroke="f4" />
-  </action>
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ScalaConsole.Execute" />
   <action id="SearchEverywhere.NavigateToNextGroup">
