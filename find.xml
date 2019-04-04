@@ -16,6 +16,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.tsx</mask>
+    <mask>*.module.js</mask>
     <mask>*.tsx, *.ts</mask>
     <mask>.scala</mask>
     <mask>*.scala</mask>
