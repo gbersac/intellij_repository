@@ -1,4 +1,16 @@
 <code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="importLayout">
+      <array>
+        <option value="java" />
+        <option value="scala" />
+        <option value="_______ blank line _______" />
+        <option value="all other imports" />
+        <option value="_______ blank line _______" />
+        <option value="co.reachfive" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
