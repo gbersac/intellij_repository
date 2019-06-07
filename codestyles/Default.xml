@@ -10,6 +10,7 @@
         <option value="co.reachfive" />
       </array>
     </option>
+    <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
   </ScalaCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
@@ -25,6 +26,11 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="METHOD_BRACE_STYLE" value="4" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <indentOptions>
