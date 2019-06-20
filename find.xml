@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.routes" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,7 +18,7 @@
     <mask>*.tsx, *.ts</mask>
     <mask>.scala</mask>
     <mask>*.conf</mask>
-    <mask>*.routes</mask>
     <mask>*.scala</mask>
+    <mask>*.routes</mask>
   </component>
 </application>
