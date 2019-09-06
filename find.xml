@@ -14,7 +14,8 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.ts, *.tsx</mask>
-    <mask>*.css</mask>
     <mask>*.routes</mask>
+    <mask>*.css</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
