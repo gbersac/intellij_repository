@@ -17,5 +17,6 @@
     <mask>*.routes</mask>
     <mask>*.css</mask>
     <mask>*.scala</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
