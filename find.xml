@@ -16,7 +16,7 @@
     <mask>*.ts, *.tsx</mask>
     <mask>*.css</mask>
     <mask>*.sbt</mask>
-    <mask>*.routes</mask>
     <mask>*.scala</mask>
+    <mask>*.routes</mask>
   </component>
 </application>
